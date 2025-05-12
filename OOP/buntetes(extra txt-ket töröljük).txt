@@ -1,0 +1,12 @@
+Robogo: ABC123 - 55 km/h
+Haladhat itt: true
+
+Audi: DEF456 - 120 km/h
+Gyorshajtott: false
+
+Robogo: GHI789 - 80 km/h
+Haladhat itt: true
+
+Audi: JKL012 - 95 km/h
+Gyorshajtott: true
+

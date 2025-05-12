@@ -1,0 +1,4 @@
+Robogo;ABC123;55;60
+Audi;DEF456;120;true
+Robogo;GHI789;80;85
+Audi;JKL012;95;false
